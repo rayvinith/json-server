@@ -116,5 +116,10 @@
         
     }
       
-    ]
+    ],
+    "todos": [
+         { "title": "Learn React"},
+         { "title": "Build Todo App"}
+       ]
+
   }
