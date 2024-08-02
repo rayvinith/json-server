@@ -117,9 +117,12 @@
     }
       
     ],
-    "todos": [
-         { "title": "Learn React"},
-         { "title": "Build Todo App"}
-       ]
+    
+      "todos": [
+        { "id": 1, "title": "Learn React" },
+        { "id": 2, "title": "Build Todo App" }
+      ]
+    
+    
 
   }
